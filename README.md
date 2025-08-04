@@ -1,2 +1,2 @@
 # HIT-Implementation
-Modern flexible pavement analysis tool
+Geogrid Reinforced Flexible Pavement Analysis Tool
