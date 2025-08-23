@@ -1,7 +1,6 @@
 clc;
 clear;
 close all;
-addpath('D:\garbage\ALVA-master\basic');
 alva.N = 300;
 alva.n = 30;
 alva.analysis = 'Full';
@@ -128,4 +127,5 @@ bcr = reduction*100/orginal_all_sections(section,3);
 disp('BCR with correction factor (%):');
 disp(bcr);
 %disp('TBR with correction factor (%):');
+
 %disp(tbr);
