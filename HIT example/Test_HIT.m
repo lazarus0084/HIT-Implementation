@@ -1,7 +1,6 @@
 clc;
 clear;
 close all;
-addpath('D:\garbage\ALVA-master\basic');
 alva.N = 300; 
 alva.n = 30; 
 alva.analysis = 'Full';
@@ -161,4 +160,5 @@ for section = 1:6
     % Save rutting figure
     filename = fullfile(output_folder, sprintf('Section_%d_Rutting.png', section));
     saveas(fig, filename);
+
 end
