@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4289275.svg)](https://doi.org/10.5281/zenodo.4289275) [![DOI](http://joss.theoj.org/papers/10.21105/joss.02548/status.svg)](https://doi.org/10.21105/joss.02548) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/asmusskar/ALVA?include_prereleases) ![GitHub](https://img.shields.io/github/license/asmusskar/ALVA) [![View ALVA on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/77034-alva)
 
-# ALVA
+# ALVA aided with HIT framework
 This repository extends the original ALVA framework by adding HIT.m to the basic module, implementing geosynthetic-reinforced flexible pavement design based on the Homogenized Interlayer Theory (HIT). The HIT method was developed by Rubayet Parvez Jahan, under the supervision of Prof. Amit Prashant (Advisor) and Dr. Sushobhan Sen (Co-Advisor, Assistant Professor, IIT Gandhinagar).
 
 <div>
